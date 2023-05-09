@@ -11,7 +11,7 @@ Compilation of all the programs I studied in **Cryptography and System Security*
 | 5. | [Transposition Cipher](./src/Transposition%20Cipher%20(Columnar).py)   |
 | 6. | [Newtork Renaissance Tools & Commands](.//)   |
 | 7. | [Diffie-Hellman Key Exchange Algorithm](./src/Diffie%20Hellman%20Key%20Exchange%20Algorithm.py)   |
-| 8. | [RSA Asymmetric Encryption Algorithm](.//)   |
+| 8. | [RSA Asymmetric Encryption Algorithm](./src/RSA%20Encryption%20Algorithm.py)   |
 | 9. | [Hash Algorithm with 3 Operations](.//)   |
 | 10.| [Brute Force Attack to find Password using Burp-Suite](./src/Burp-Suite%20(Brute%20Force%20Attack).md)   |
 | 11.| [DoS Attack on Neighbouring Computer](.//)   |
