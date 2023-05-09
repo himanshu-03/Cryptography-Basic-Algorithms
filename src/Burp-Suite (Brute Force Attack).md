@@ -22,7 +22,7 @@ Download Burpsuite from below site.
 
     > http://burp
 
-Click on CA Certificate and Download the certificate
+    Click on CA Certificate and Download the certificate
 
 5)      Go to Mozilla Browser - > Settings - > View Certificate - > 
         Authories Tab - > Import - > Import cacert Certicate - > ok
@@ -35,6 +35,7 @@ Click on CA Certificate and Download the certificate
 > http://testfire.net/login.jsp
 
 > Username : admin
+
 > Password: admin
 
 <br />
