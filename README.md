@@ -15,8 +15,8 @@ Compilation of all the programs I studied in **Cryptography and System Security*
 | 9. | [Hash Algorithm with 3 Operations](.//)   |
 | 10.| [Brute Force Attack to find Password using Burp-Suite](./src/Burp-Suite%20(Brute%20Force%20Attack).md)   |
 | 11.| [DoS Attack on Neighbouring Computer](./src/DoS%20Attack.md)   |
-| 12.| [Newtork Sniffing Tools to demonstrate difference between `http` and `https`](.//)   |
-| 13.| [Network Sniffing Tools to demonstrate TCP Three-Way Handshake](.//)    |
+| 12.| [Newtork Sniffing Tools to demonstrate difference between `http` and `https`](./src/TCP%20Three-way-handshake.md)   |
+| 13.| [Network Sniffing Tools to demonstrate TCP Three-Way Handshake](./src/TCP%20Three-way-handshake.md)    |
 
 <br/>
 
