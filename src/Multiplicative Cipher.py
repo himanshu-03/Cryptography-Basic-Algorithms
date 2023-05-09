@@ -10,7 +10,7 @@ def multiplicative_encrypt(text, key):
 
     key_list = list(char_dict.keys())
     inv_char_dict = dict(zip(char_dict.values(), char_dict.keys()))
-    
+
     if math.gcd(26, key) == 1:
         for char in text:
             if char in key_list:
@@ -33,7 +33,8 @@ def multiplicative_decrypt(text, key):
     key_list = list(char_dict.keys())
     inv_char_dict = dict(zip(char_dict.values(), char_dict.keys()))
 
-    mult_inv=mod_inverse(key, 26)
+    mult_inv = mod_inverse(key, 26)
+
     for char in text:
         if char in key_list:
             new_index = (char_dict[char] * mult_inv) % 26

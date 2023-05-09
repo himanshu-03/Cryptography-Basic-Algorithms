@@ -2,16 +2,16 @@ from random import randint
 
 if __name__ == '__main__':
     print("\n------------------------------------------\n")     
-    R = int(input('Enter the value of R : '))
+    R = int(input('Enter the value of R : '))               # Alice's Public Number
 
     print("\n------------------------------------------\n")
-    S = int(input('Enter the value of S : '))
+    S = int(input('Enter the value of S : '))               # Bob's Public Number
 
     print("\n------------------------------------------\n")
-    a = int(input('Enter secret key a   : '))
+    a = int(input('Enter secret key a   : '))               # Alice's Private Key
     p = int(pow(S,a,R)) 
 
-    print("\n------------------------------------------\n")
+    print("\n------------------------------------------\n") # Bob's Private Key
     b = int(input('Enter secret key b   : '))
     q = int(pow(S,b,R)) 
      
