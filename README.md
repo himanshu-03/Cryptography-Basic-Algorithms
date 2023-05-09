@@ -10,7 +10,7 @@ Compilation of all the programs I studied in **Cryptography and System Security*
 | 4. | [Keyless Transposition Cipher](.//)   |
 | 5. | [Transposition Cipher](.//)   |
 | 6. | [Newtork Renaissance Tools & Commands](.//)   |
-| 7. | [Diffie-Hellman Key Exchange Algorithm](.//)   |
+| 7. | [Diffie-Hellman Key Exchange Algorithm](./Diffie%20Hellman%20Key%20Exchange%20Algorithm.py)   |
 | 8. | [RSA Assymetric Encryption Algorithm](.//)   |
 | 9. | [Hash Algorithm with 3 Operations](.//)   |
 | 10.| [Brute Force Attack to find Password using Burp-Suite](.//)   |
