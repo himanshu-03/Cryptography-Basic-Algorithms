@@ -31,8 +31,12 @@ def decrypt(cipher,n):
         
     return ans1
 
-a = input('Enter plaintext: ')
-n = int(input('Enter shift key: '))
+print("\n-----------------------------------------\n")
+a = input('Enter plaintext  : ')
+n = 3                                   # Caeser Cipher has a fixed shift of key size 3 
 t = encrypt(a,n)
-print('Cipher Text is: ', t)
-print('Original Text is: ', decrypt(t,n))
+print("\n-----------------------------------------\n")
+print('Cipher Text is   : ', t)
+print("\n-----------------------------------------\n")
+print('Original Text is : ', decrypt(t,n))
+print("\n-----------------------------------------\n")
