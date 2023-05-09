@@ -4,13 +4,13 @@ Compilation of all the programs I studied in **Cryptography and System Security*
 
 | Sr.No | Program |
 | :---: | :--- |
-| 1. | [Caesar Cipher (Encryption & Decryption)](./Caeser%20Cipher.py)  |
-| 2. | [Shift Cipher (Encryption & Decryption](./Shift%20Cipher.py)   |
-| 3. | [Multiplicative Cipher (Encryption & Decryption](.//)   |
+| 1. | [Caesar Cipher (Encryption & Decryption)](./src/Caeser%20Cipher.py)  |
+| 2. | [Shift Cipher (Encryption & Decryption](./src/Shift%20Cipher.py)   |
+| 3. | [Multiplicative Cipher (Encryption & Decryption)](./src/Multiplicative%20Cipher.py)   |
 | 4. | [Keyless Transposition Cipher](.//)   |
 | 5. | [Transposition Cipher](.//)   |
 | 6. | [Newtork Renaissance Tools & Commands](.//)   |
-| 7. | [Diffie-Hellman Key Exchange Algorithm](./Diffie%20Hellman%20Key%20Exchange%20Algorithm.py)   |
+| 7. | [Diffie-Hellman Key Exchange Algorithm](./src/Diffie%20Hellman%20Key%20Exchange%20Algorithm.py)   |
 | 8. | [RSA Assymetric Encryption Algorithm](.//)   |
 | 9. | [Hash Algorithm with 3 Operations](.//)   |
 | 10.| [Brute Force Attack to find Password using Burp-Suite](.//)   |
