@@ -41,9 +41,9 @@
 
 The command
 
-'''bash
+```bash
 hping3 -1 --flood --rand-source -c 10000 192.168.68.107
-'''
+```
 
 is a command-line tool used to perform network testing and analysis. Here's a breakdown of what each part of the command means:
 
